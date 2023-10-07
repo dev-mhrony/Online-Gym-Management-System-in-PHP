@@ -34,6 +34,8 @@ if (strlen($_SESSION['adminid']==0)) {
           <li class="breadcrumb-item"><a href="#">Dashboard</a></li>
         </ul>
       </div>
+      <marquee onMouseOver="this.stop()" style="color: #e92f33;" onMouseOut="this.start()">This is a Code Camp BD's free source code for educational use only. It can never be used for commercial purposes. Don't forget to take code camp BD permission if needed!</marquee>
+
       <div class="row">
           
         <div class="col-md-6 col-lg-6">

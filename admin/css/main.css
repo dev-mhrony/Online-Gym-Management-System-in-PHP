@@ -1998,7 +1998,7 @@ pre code {
 .form-control:focus {
   color: #495057;
   background-color: #FFF;
-  border-color: #009688;
+  border-color: #4a0aeb;
   outline: 0;
   -webkit-box-shadow: none;
           box-shadow: none;
@@ -14703,7 +14703,7 @@ be a descendant of the grid when it is being dragged.
 }
 
 .widget-small.primary.coloured-icon .icon {
-  background-color: #009688;
+  background-color: #5060f5;
   color: #fff;
 }
 

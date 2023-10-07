@@ -58,6 +58,8 @@ echo "<script>window.location.href='add-category.php'</script>";
     <main class="app-content">
      <h3>Categories</h3>
      <hr />
+     <marquee onMouseOver="this.stop()" onMouseOut="this.start()">Text</marquee>
+
       <div class="row">
         
         <div class="col-md-6">
