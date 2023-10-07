@@ -52,6 +52,8 @@ $errormsg= "Data not insert successfully";
     <!-- Sidebar menu-->
     <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
     <?php include 'include/sidebar.php'; ?>
+      <marquee onMouseOver="this.stop()" style="color: #e92f33;" onMouseOut="this.start()">This is a Code Camp BD's free source code for educational use only. It can never be used for commercial purposes. Don't forget to take code camp BD permission if needed!</marquee>
+
     <main class="app-content">
       <h3> Add Package </h3>
       <hr/>
@@ -111,11 +113,6 @@ $errormsg= "Data not insert successfully";
                   <label class="control-label">Price</label>
                   <input class="form-control" type="text" name="Price" id="Price" placeholder="Enter your Price">
                 </div>
-                
-                 <!-- <div class="form-group col-md-6">
-                  <label class="control-label">File</label>
-                  <input class="form-control" type="file" name="photo" id="photo">
-                </div> -->
 
                   <div class="form-group col-md-6">
                   <label class="control-label">Description</label>
