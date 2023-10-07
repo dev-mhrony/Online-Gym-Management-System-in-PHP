@@ -50,7 +50,16 @@ $error="Your current password is not valid.";
     <div class="app-sidebar__overlay" data-toggle="sidebar"></div>
     <?php include 'include/sidebar.php'; ?>
       <marquee onMouseOver="this.stop()" style="color: #e92f33;" onMouseOut="this.start()">This is a Code Camp BD's free source code for educational use only. It can never be used for commercial purposes. Don't forget to take <a target="_blank" href="https://www.youtube.com/@codecampbdofficial">Code Camp BD</a> permission if needed!</marquee>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
     <main class="app-content">
       <div class="row">
         <div class="col-md-6">
@@ -74,7 +83,16 @@ $error="Your current password is not valid.";
                   <input type="password" name="confirmpassword" id="confirmpassword" placeholder="Confirm Password" autocomplete="off" class="form-control">
 
                 </div>
-                 
+                 	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                 <div class="form-group col-md-4 align-self-end">
                   <input type="Submit" name="submit" id="submit" class="btn btn-primary" value="Submit">
                 </div>
@@ -123,4 +141,13 @@ return true;
     </style>
   </body>
 </html>
-<?php } ?>
+<?php } ?>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->

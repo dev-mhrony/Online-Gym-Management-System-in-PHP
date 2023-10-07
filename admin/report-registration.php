@@ -29,13 +29,31 @@ if (strlen($_SESSION['adminid']==0)) {
 
     <main class="app-content">
      
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
     <div class="row">
         
         <div class="col-md-12">
           <div class="tile">
              <!---Success Message--->  
-          
+          	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
           <!---Error Message--->
                       <h3 class="tile-title">Registration Report</h3>
             <div class="tile-body">
@@ -44,7 +62,16 @@ if (strlen($_SESSION['adminid']==0)) {
                   <label class="control-label">From Date</label>
                   <input class="form-control" type="date" name="fdate" id="fdate" placeholder="Enter From Date">
                 </div>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                  <div class="form-group col-md-6">
                   <label class="control-label">To Date</label>
                   <input class="form-control" type="date" name="todate" id="todate" placeholder="Enter To Date">
@@ -78,7 +105,16 @@ if(Isset($_POST['Submit'])){?>
               <th>state</th>
               <th>city</th>
        
-        
+        	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                     
                   </tr>
                 </thead>
@@ -96,7 +132,16 @@ where date(create_date) between :fdate and :tdate";
                   foreach($results as $result)
                   {
                   ?>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                 <tbody>
                   <tr>
                     <td><?php echo($cnt);?></td>
@@ -105,7 +150,16 @@ where date(create_date) between :fdate and :tdate";
                     <td><?php echo htmlentities($result->mobile);?></td>
                     <td><?php echo htmlentities($result->state);?></td>
                     <td><?php echo htmlentities($result->city);?></td>
-                    
+                    	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                      
                   </tr>
                     <?php  $cnt=$cnt+1; } } ?>
@@ -128,6 +182,15 @@ where date(create_date) between :fdate and :tdate";
     <script type="text/javascript" src="js/plugins/jquery.dataTables.min.js"></script>
     <script type="text/javascript" src="js/plugins/dataTables.bootstrap.min.js"></script>
     <script type="text/javascript">$('#sampleTable').DataTable();</script>
-  </body>
+  </body>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 </html>
 <?php } ?>

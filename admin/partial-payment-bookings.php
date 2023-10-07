@@ -28,7 +28,16 @@ if (strlen($_SESSION['adminid']==0)) {
 
     <main class="app-content">
      
-      
+      	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
        <div class="row">
         <div class="col-md-12">
           <div class="tile">
@@ -46,7 +55,16 @@ if (strlen($_SESSION['adminid']==0)) {
                 <th>PackageName</th>
         <th>Title</th>
      
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
         <th>Action</th>
                     
                   </tr>
@@ -88,7 +106,16 @@ on t2.PackageType=t5.id where t1.paymentType='Partial Payment'";
                      </td>
                   </tr>
                     <?php  $cnt=$cnt+1; } } ?>
-              
+              	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                 </tbody>
               </table>
             </div>
@@ -110,5 +137,14 @@ on t2.PackageType=t5.id where t1.paymentType='Partial Payment'";
     <script type="text/javascript" src="js/plugins/dataTables.bootstrap.min.js"></script>
     <script type="text/javascript">$('#sampleTable').DataTable();</script>
   </body>
-</html>
+</html>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 <?php } ?>

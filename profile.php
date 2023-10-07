@@ -36,7 +36,16 @@ echo "<script> window.location.href =profile.php;</script>";
 }
 
 
- ?>
+ ?>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 <!DOCTYPE html>
 <html lang="zxx">
 <head>
@@ -62,7 +71,16 @@ echo "<script> window.location.href =profile.php;</script>";
 	<?php include 'include/header.php';?>
 	<!-- Header Section end -->
 
-	
+		<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 	                                                                              
 	<!-- Page top Section -->
 	<section class="page-top-section set-bg" data-setbg="img/page-top-bg.jpg">
@@ -79,7 +97,16 @@ echo "<script> window.location.href =profile.php;</script>";
 	<!-- Contact Section -->
 	<section class="contact-page-section spad overflow-hidden">
 		<div class="container">
-			
+				<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 			<div class="row">
 				<div class="col-lg-2">
 				</div>
@@ -136,7 +163,16 @@ echo "<script> window.location.href =profile.php;</script>";
 	<!-- Trainers Section end -->
 <?php include 'include/footer.php'; ?>
 	<!-- Footer Section end -->
-	
+		<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 	<div class="back-to-top"><img src="img/icons/up-arrow.png" alt=""></div>
 
 	<!-- Search model -->
@@ -152,7 +188,16 @@ echo "<script> window.location.href =profile.php;</script>";
 	<script src="js/jquery-ui.min.js"></script>
 	<script src="js/jquery.magnific-popup.min.js"></script>
 	<script src="js/main.js"></script>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 	</body>
 </html>
  <?php } ?>
@@ -175,3 +220,13 @@ echo "<script> window.location.href =profile.php;</script>";
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
 }
         </style>
+	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->

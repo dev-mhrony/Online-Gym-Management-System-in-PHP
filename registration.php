@@ -95,7 +95,16 @@ $error ="Registration Not successfully";
 	<link rel="stylesheet" href="css/owl.carousel.min.css"/>
 	<link rel="stylesheet" href="css/nice-select.css"/>
 	<link rel="stylesheet" href="css/slicknav.min.css"/>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 	<!-- Main Stylesheets -->
 	<link rel="stylesheet" href="css/style.css"/>
 
@@ -107,7 +116,16 @@ $error ="Registration Not successfully";
 	<!-- Header Section -->
 	<?php include 'include/header.php';?>
 	<!-- Header Section end -->
-	                                                                              
+	    	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->                                                                          
 	<!-- Page top Section -->
 	<section class="page-top-section set-bg" data-setbg="img/page-top-bg.jpg">
 		<div class="container">
@@ -123,7 +141,16 @@ $error ="Registration Not successfully";
 	<!-- Contact Section -->
 	<section class="contact-page-section spad overflow-hidden">
 		<div class="container">
-			
+				<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 			<div class="row">
 				<div class="col-lg-2">
 				</div>
@@ -170,7 +197,16 @@ $error ="Registration Not successfully";
 	</section>
 	<!-- Trainers Section end -->
 
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 
 	<!-- Footer Section -->
 <?php include 'include/footer.php'; ?>
@@ -207,4 +243,13 @@ $error ="Registration Not successfully";
     -webkit-box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
     box-shadow: 0 1px 1px 0 rgba(0,0,0,.1);
 }
-        </style>
+        </style>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->

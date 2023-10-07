@@ -58,7 +58,16 @@ $errormsg= "Data not insert successfully";
       <h3> Add Package </h3>
       <hr/>
       <div class="row">
-        
+        	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
         <div class="col-md-12">
           <div class="tile">
              <!---Success Message--->  
@@ -96,7 +105,16 @@ $errormsg= "Data not insert successfully";
                    <option value="NA">--select--</option>
                  </select>
                 </div>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                 <div class="form-group col-md-6">
                   <label class="control-label">Title Name</label>
                   <input class="form-control" name="titlename" id="titlename" type="text" placeholder="Enter your Title Name">
@@ -127,7 +145,16 @@ $errormsg= "Data not insert successfully";
           </div>
         </div>
       </div>
-    </main>
+    </main>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
     <?php include_once 'include/footer.php' ?>
     <!-- Essential javascripts for application to work-->
     <script src="js/jquery-3.2.1.min.js"></script>
@@ -155,4 +182,13 @@ $("#package").html(data);
 });
 }
 </script>
-<?php } ?>
+<?php } ?>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->

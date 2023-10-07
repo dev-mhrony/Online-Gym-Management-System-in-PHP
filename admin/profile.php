@@ -55,7 +55,16 @@ echo "<script> window.location.href =profile.php;</script>";
     <main class="app-content">
       
       <div class="row">
-        
+        	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
         <div class="col-md-12">
           <div class="tile">
             <h3 class="tile-title">Profile</h3>
@@ -85,7 +94,16 @@ echo "<script> window.location.href =profile.php;</script>";
                   <label class="control-label">Mobile No</label>
                   <input class="form-control" type="text" name="mobile" id="mobile" placeholder="Enter your Mobile" value="<?php echo $result->mobile;?>">
                 </div>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                          <div class="form-group col-md-12">
                   <label class="control-label">Regd. Date</label>
                   <input class="form-control" type="text" name="reg" id="reg"  value="<?php echo $result->create_date;?>" readonly>
@@ -109,7 +127,16 @@ echo "<script> window.location.href =profile.php;</script>";
     <script src="js/bootstrap.min.js"></script>
     <script src="js/main.js"></script>
     <script src="js/plugins/pace.min.js"></script>
-  
+  	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
   </body>
 </html>
 <?php } ?>

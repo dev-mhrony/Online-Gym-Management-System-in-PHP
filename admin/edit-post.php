@@ -55,7 +55,16 @@ echo "<script>window.location.href='manage-post.php'</script>";
       <marquee onMouseOver="this.stop()" style="color: #e92f33;" onMouseOut="this.start()">This is a Code Camp BD's free source code for educational use only. It can never be used for commercial purposes. Don't forget to take code camp BD permission if needed!</marquee>
 
     <main class="app-content">
-      
+      	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
       <div class="row">
         
         <div class="col-md-12">
@@ -66,7 +75,16 @@ echo "<script>window.location.href='manage-post.php'</script>";
           <strong>Well done!</strong> <?php echo htmlentities($msg);?>
           </div>
           <?php } ?>
+	<!-- 
 
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
           <!---Error Message--->
           <?php if($errormsg){ ?>
           <div class="alert alert-danger" role="alert">
@@ -112,7 +130,16 @@ echo "<script>window.location.href='manage-post.php'</script>";
                   <label class="control-label">Package Type</label>
                    <select name="package" id="package" class="form-control">
                      <option value="<?php echo $result->id;?>"><?php echo $result->PackageName;?></option>
-                  
+                  	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
                  </select>
                 </div>
 
@@ -121,7 +148,16 @@ echo "<script>window.location.href='manage-post.php'</script>";
                   <input class="form-control" name="titlename" id="titlename" type="text" placeholder="Enter your Title Name" value="<?php echo $result->titlename;?>">
                 </div>
 
-               
+               	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
 
                  <div class="form-group col-md-6">
                   <label class="control-label">Package Duratiobn</label>
@@ -163,7 +199,16 @@ echo "<script>window.location.href='manage-post.php'</script>";
   <script src="//js.nicedit.com/nicEdit-latest.js" type="text/javascript"></script>
 <script type="text/javascript">bkLib.onDomLoaded(nicEditors.allTextAreas);</script>
       <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
-      
+      	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
   </body>
 </html>
 
@@ -180,4 +225,13 @@ $("#package").html(data);
 });
 }
 </script>
-<?php }?>
+<?php }?>	<!-- 
+
+
+	- Author Name: MH RONY.
+	- GigHub Link: https://github.com/dev-mhrony
+	- Facebook Link:https://www.facebook.com/dev.mhrony
+	- Youtube Link: <a href = "https://www.youtube.com/@codecampbdofficial"> Code Camp BD</a>
+	- for any PHP, Laravel, Python, Dart, Flutter work contact me at developer.mhrony@gmail.com
+	- Visit My Website : https://dev-mhrony.com
+	 -->
